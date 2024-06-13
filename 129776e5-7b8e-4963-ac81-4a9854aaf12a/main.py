@@ -1,1 +1,1 @@
-#Type code here
+strategy.base_class
