@@ -5,7 +5,7 @@ from surmount.logging import log
 class TradingStrategy(Strategy):
     def __init__(self):
         # Initialize with the ticker you want to trade
-        self.ticker = "DDC"
+        self.ticker = "NVVE"
         self.profit_target = 1.3 # Target for a 30% price increase
         self.entry_price = None # To keep track of our entry price for the trade
 
